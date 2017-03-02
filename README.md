@@ -2,7 +2,7 @@
 
 ## An 8-colour scheme for use in 256-colour vim.
 
-Forces vim to obey 4-bit terminal colours while in 256-colour mode without
+Forces vim to obey 8-colour terminal colours while in 256-colour mode without
 preventing plugins (such as [Powerline]) from being full 256-colour. Perfect
 for users that want a uniform look across the terminal without losing the extra
 colours.
@@ -23,7 +23,7 @@ Then, run:
 
     :PluginInstall
 
-And add the following line to you .vimrc to enable octochrome:
+And add the following line to your .vimrc to enable octochrome:
 
     colorscheme octochrome
 
