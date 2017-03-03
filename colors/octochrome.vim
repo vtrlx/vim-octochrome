@@ -13,7 +13,7 @@ set t_Co=256
 let g:colors_name = "octochrome"
 
 hi Cursor ctermfg=none ctermbg=none cterm=none
-hi Visual ctermfg=none ctermbg=8 cterm=none
+hi Visual ctermfg=none ctermbg=5 cterm=bold
 hi LineNR ctermfg=6 ctermbg=none cterm=none
 hi CursorLineNr ctermfg=6 ctermbg=none cterm=reverse
 hi Normal ctermfg=none ctermbg=none
@@ -37,12 +37,12 @@ hi DiffAdd ctermfg=none ctermbg=2 cterm=bold
 hi DiffDelete ctermfg=none ctermbg=2 cterm=none
 hi DiffChange ctermfg=none ctermbg=none cterm=none
 hi DiffText ctermfg=none ctermbg=4 cterm=bold
-hi ErrorMsg ctermfg=7 ctermbg=1 cterm=none
-hi WarningMsg ctermfg=3 ctermbg=none cterm=reverse
+hi ErrorMsg ctermfg=15 ctermbg=1 cterm=bold
+hi WarningMsg ctermfg=0 ctermbg=3 cterm=bold
 hi Float ctermfg=4 ctermbg=none cterm=none
-hi Function ctermfg=3 ctermbg=none cterm=none
+hi Function ctermfg=2 ctermbg=none cterm=none
 hi Identifier ctermfg=2 ctermbg=none cterm=none
-hi Keyword ctermfg=3 ctermbg=none cterm=none
+hi Keyword ctermfg=2 ctermbg=none cterm=none
 hi Label ctermfg=6 ctermbg=none cterm=none
 hi NonText ctermfg=6 ctermbg=none cterm=none
 hi Number ctermfg=1 ctermbg=none cterm=none
