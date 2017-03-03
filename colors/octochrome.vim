@@ -14,8 +14,8 @@ let g:colors_name = "octochrome"
 
 hi Cursor ctermfg=none ctermbg=none cterm=none
 hi Visual ctermfg=none ctermbg=8 cterm=none
-hi LineNr ctermfg=6 ctermbg=none cterm=none
-hi CurrentLineNr ctermfg=6 ctermbg=none cterm=reverse
+hi LineNR ctermfg=6 ctermbg=none cterm=none
+hi CursorLineNr ctermfg=6 ctermbg=none cterm=reverse
 hi Normal ctermfg=none ctermbg=none
 hi VertSplit ctermfg=7 ctermbg=7 cterm=none
 hi MatchParen ctermfg=7 ctermbg=6 cterm=bold
