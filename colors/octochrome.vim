@@ -21,8 +21,8 @@ hi VertSplit ctermfg=7 ctermbg=7 cterm=none
 hi MatchParen ctermfg=7 ctermbg=6 cterm=bold
 hi StatusLine ctermfg=none ctermbg=0 cterm=bold
 hi StatusLineNC ctermfg=none ctermbg=0 cterm=none
-hi Pmenu ctermfg=none ctermbg=none cterm=none
-hi PmenuSel ctermfg=none ctermbg=none cterm=none
+hi Pmenu ctermfg=none ctermbg=0 cterm=none
+hi PmenuSel ctermfg=none ctermbg=7 cterm=none
 hi IncSearch ctermfg=none ctermbg=3 cterm=none
 hi Search ctermfg=none ctermbg=none cterm=underline
 hi Directory ctermfg=2 ctermbg=none cterm=none
@@ -30,11 +30,11 @@ hi Folded ctermfg=7 ctermbg=0 cterm=none
 hi Boolean ctermfg=4 ctermbg=none cterm=none
 hi Character ctermfg=1 ctermbg=none cterm=none
 hi Comment ctermfg=7 ctermbg=none cterm=none
-hi Conditional ctermfg=2 ctermbg=none cterm=none
+hi Conditional ctermfg=3 ctermbg=none cterm=none
 hi Constant ctermfg=1 ctermbg=none cterm=none
 hi Define ctermfg=5 ctermbg=none cterm=none
 hi DiffAdd ctermfg=none ctermbg=2 cterm=bold
-hi DiffDelete ctermfg=none ctermbg=2 cterm=none
+hi DiffDelete ctermfg=none ctermbg=1 cterm=none
 hi DiffChange ctermfg=none ctermbg=none cterm=none
 hi DiffText ctermfg=none ctermbg=4 cterm=bold
 hi ErrorMsg ctermfg=15 ctermbg=1 cterm=bold
