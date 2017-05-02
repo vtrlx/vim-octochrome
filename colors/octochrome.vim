@@ -27,7 +27,7 @@ hi IncSearch ctermfg=none ctermbg=3 cterm=none
 hi Search ctermfg=none ctermbg=none cterm=underline
 hi Directory ctermfg=2 ctermbg=none cterm=none
 hi Folded ctermfg=7 ctermbg=0 cterm=none
-hi Boolean ctermfg=4 ctermbg=none cterm=none
+hi Boolean ctermfg=1 ctermbg=none cterm=none
 hi Character ctermfg=1 ctermbg=none cterm=none
 hi Comment ctermfg=7 ctermbg=none cterm=none
 hi Conditional ctermfg=3 ctermbg=none cterm=none
@@ -35,11 +35,11 @@ hi Constant ctermfg=1 ctermbg=none cterm=none
 hi Define ctermfg=5 ctermbg=none cterm=none
 hi DiffAdd ctermfg=none ctermbg=2 cterm=bold
 hi DiffDelete ctermfg=none ctermbg=1 cterm=none
-hi DiffChange ctermfg=none ctermbg=none cterm=none
+hi DiffChange ctermfg=none ctermbg=6 cterm=none
 hi DiffText ctermfg=none ctermbg=4 cterm=bold
 hi ErrorMsg ctermfg=15 ctermbg=1 cterm=bold
 hi WarningMsg ctermfg=0 ctermbg=3 cterm=bold
-hi Float ctermfg=4 ctermbg=none cterm=none
+hi Float ctermfg=1 ctermbg=none cterm=none
 hi Function ctermfg=2 ctermbg=none cterm=none
 hi Identifier ctermfg=2 ctermbg=none cterm=none
 hi Keyword ctermfg=2 ctermbg=none cterm=none
@@ -52,11 +52,11 @@ hi Special ctermfg=6 ctermbg=none cterm=none
 hi SpecialComment ctermfg=6 ctermbg=none cterm=none
 hi SpecialKey ctermfg=6 ctermbg=none cterm=none
 hi Statement ctermfg=3 ctermbg=none cterm=none
-hi StorageClass ctermfg=4 ctermbg=none cterm=none
+hi StorageClass ctermfg=3 ctermbg=none cterm=none
 hi String ctermfg=4 ctermbg=none cterm=none
 hi Tag ctermfg=6 ctermbg=none cterm=none
 hi Title ctermfg=none ctermbg=none cterm=bold
-hi Todo ctermfg=6 ctermbg=0 cterm=bold
+hi Todo ctermfg=0 ctermbg=3 cterm=none
 hi Type ctermfg=2 ctermbg=none cterm=none
 hi Underlined ctermfg=none ctermbg=none cterm=underline
 
