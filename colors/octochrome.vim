@@ -26,7 +26,7 @@ hi PmenuSel ctermfg=none ctermbg=7 cterm=none
 hi IncSearch ctermfg=none ctermbg=3 cterm=none
 hi Search ctermfg=none ctermbg=none cterm=underline
 hi Directory ctermfg=2 ctermbg=none cterm=none
-hi Folded ctermfg=7 ctermbg=0 cterm=none
+hi Folded ctermfg=none ctermbg=0 cterm=none
 hi Boolean ctermfg=1 ctermbg=none cterm=none
 hi Character ctermfg=1 ctermbg=none cterm=none
 hi Comment ctermfg=7 ctermbg=none cterm=none
