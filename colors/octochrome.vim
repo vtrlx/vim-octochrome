@@ -13,12 +13,12 @@ set t_Co=256
 let g:colors_name = "octochrome"
 
 hi Cursor ctermfg=none ctermbg=none cterm=none
-hi Visual ctermfg=none ctermbg=5 cterm=bold
+hi Visual ctermfg=none ctermbg=8 cterm=bold
 hi LineNR ctermfg=6 ctermbg=none cterm=none
 hi CursorLineNr ctermfg=6 ctermbg=none cterm=reverse
 hi Normal ctermfg=none ctermbg=none
 hi VertSplit ctermfg=7 ctermbg=7 cterm=none
-hi MatchParen ctermfg=7 ctermbg=6 cterm=bold
+hi MatchParen ctermfg=none ctermbg=0 cterm=bold
 hi StatusLine ctermfg=none ctermbg=0 cterm=bold
 hi StatusLineNC ctermfg=none ctermbg=0 cterm=none
 hi Pmenu ctermfg=none ctermbg=0 cterm=none
