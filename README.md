@@ -1,5 +1,7 @@
 # Octochrome
 
+![octochrome theme in st terminal](octochrome.png)
+
 ## An 8-colour scheme for use in 256-colour vim.
 
 Forces vim to obey 8-colour terminal colours while in 256-colour mode without
