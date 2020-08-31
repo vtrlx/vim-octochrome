@@ -1,6 +1,6 @@
 " octochrome.vim
 "
-" (C) 2017 Victoria Lacroix
+" (C) 2017-2020 Victoria Lacroix
 
 set background=dark
 highlight clear
@@ -16,6 +16,7 @@ hi Cursor ctermfg=none ctermbg=none cterm=none
 hi Visual ctermfg=none ctermbg=8 cterm=bold
 hi LineNR ctermfg=6 ctermbg=none cterm=none
 hi CursorLineNr ctermfg=6 ctermbg=none cterm=reverse
+hi ColorColumn ctermbg=2 cterm=bold
 hi Normal ctermfg=none ctermbg=none
 hi VertSplit ctermfg=7 ctermbg=7 cterm=none
 hi MatchParen ctermfg=none ctermbg=0 cterm=bold

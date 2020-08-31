@@ -1,6 +1,6 @@
 " zerochrome.vim
 "
-" (C) 2019 Victoria Lacroix
+" (C) 2019-2020 Victoria Lacroix
 
 set background=dark
 highlight clear
@@ -16,6 +16,7 @@ hi Cursor term=none
 hi Visual term=reverse
 hi LineNR term=reverse
 hi CursorLineNr term=bold
+hi ColorColumn term=reverse
 hi Normal term=none
 hi VertSplit term=none
 hi MatchParen term=bold
