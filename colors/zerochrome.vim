@@ -1,12 +1,12 @@
 " zerochrome.vim
 "
-" (C) 2019-2020 Victoria Lacroix
+" (c) 2019-2022 Victoria Lacroix
 
 set background=dark
 highlight clear
 
 if exists("syntax_on")
-  syntax reset
+	syntax reset
 endif
 
 set t_Co=0
@@ -14,7 +14,7 @@ let g:colors_name = "zerochrome"
 
 hi Cursor term=none
 hi Visual term=reverse
-hi LineNR term=reverse
+hi LineNR term=bold
 hi CursorLineNr term=bold
 hi ColorColumn term=reverse
 hi Normal term=none
